@@ -1,0 +1,17 @@
+{
+  "id": "chestrays/create-pneumonia-dataturks-dataset",
+  "id_no": 1401470,
+  "title": "Create Pneumonia DataTurks Dataset",
+  "code_file": "create-pneumonia-dataturks-dataset.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "nih-chest-xrays/data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": []
+}

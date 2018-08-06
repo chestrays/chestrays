@@ -1,0 +1,10 @@
+name: chestrays
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python=3.6
+- notebook
+- matplotlib
+- pip:
+  - kaggle==1.4.5
