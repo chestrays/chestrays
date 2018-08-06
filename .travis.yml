@@ -1,0 +1,3 @@
+before_install:
+- openssl aes-256-cbc -K $encrypted_12b31592d0a4_key -iv $encrypted_12b31592d0a4_iv
+  -in git-crypt.key.enc -out git-crypt.key -d
